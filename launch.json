@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CakeShopGUI",
+            "request": "launch",
+            "mainClass": "CakeShopGUI",
+            "projectName": "your_project_name"
+        }
+    ]
+}
